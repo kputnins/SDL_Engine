@@ -1,5 +1,5 @@
 # SDL_Engine
-A 2D top down game engine I'm working on to learn c++ and OOP
+A top down game engine I'm working on to learn c++ and OOP
 
 ![Screenshot:](
 https://i.imgur.com/nLqqcvQ.png)
